@@ -1,0 +1,9 @@
+read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib
+read_verilog mbm.v
+synth -top mbmt1
+#dfflibmap -liberty sky130_fd_sc_hd__tt_025C_1v80.lib
+abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib
+clean
+flatten
+write_verilog -noattr synth.v
+tee -o report_mbmt1.txt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib

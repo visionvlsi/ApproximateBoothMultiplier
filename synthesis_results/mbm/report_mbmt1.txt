@@ -1,0 +1,65 @@
+
+7. Printing statistics.
+
+=== mbmt1 ===
+
+   Number of wires:               1323
+   Number of wire bits:           1776
+   Number of public wires:          20
+   Number of public wire bits:     473
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1335
+     sky130_fd_sc_hd__a211o_1        1
+     sky130_fd_sc_hd__a211oi_1       9
+     sky130_fd_sc_hd__a21bo_1        1
+     sky130_fd_sc_hd__a21boi_0       4
+     sky130_fd_sc_hd__a21o_1         6
+     sky130_fd_sc_hd__a21oi_1      114
+     sky130_fd_sc_hd__a22oi_1        2
+     sky130_fd_sc_hd__a311oi_1       1
+     sky130_fd_sc_hd__a31o_1         3
+     sky130_fd_sc_hd__a31oi_1        8
+     sky130_fd_sc_hd__a32oi_1        4
+     sky130_fd_sc_hd__and2_0        32
+     sky130_fd_sc_hd__and3_1        14
+     sky130_fd_sc_hd__and3b_1        4
+     sky130_fd_sc_hd__and4_1         2
+     sky130_fd_sc_hd__clkinv_1      30
+     sky130_fd_sc_hd__lpflow_inputiso1p_1     15
+     sky130_fd_sc_hd__lpflow_isobufsrc_1     22
+     sky130_fd_sc_hd__maj3_1        51
+     sky130_fd_sc_hd__mux2_1         4
+     sky130_fd_sc_hd__mux2i_1      140
+     sky130_fd_sc_hd__nand2_1      141
+     sky130_fd_sc_hd__nand2b_1      24
+     sky130_fd_sc_hd__nand3_1       19
+     sky130_fd_sc_hd__nand3b_1       2
+     sky130_fd_sc_hd__nand4_1       17
+     sky130_fd_sc_hd__nand4bb_1      2
+     sky130_fd_sc_hd__nor2_1       135
+     sky130_fd_sc_hd__nor2b_1       10
+     sky130_fd_sc_hd__nor3_1        25
+     sky130_fd_sc_hd__nor4_1        18
+     sky130_fd_sc_hd__nor4b_1        2
+     sky130_fd_sc_hd__nor4bb_1       1
+     sky130_fd_sc_hd__o211ai_1       1
+     sky130_fd_sc_hd__o21a_1         9
+     sky130_fd_sc_hd__o21ai_0       79
+     sky130_fd_sc_hd__o21ba_1        1
+     sky130_fd_sc_hd__o21bai_1       2
+     sky130_fd_sc_hd__o311ai_0       1
+     sky130_fd_sc_hd__o31a_1         2
+     sky130_fd_sc_hd__o31ai_1        2
+     sky130_fd_sc_hd__o32ai_1        1
+     sky130_fd_sc_hd__o41ai_1        1
+     sky130_fd_sc_hd__or3_1         11
+     sky130_fd_sc_hd__or3b_1         2
+     sky130_fd_sc_hd__xnor2_1      202
+     sky130_fd_sc_hd__xnor3_1       13
+     sky130_fd_sc_hd__xor2_1       141
+     sky130_fd_sc_hd__xor3_1         4
+
+   Chip area for module '\mbmt1': 9293.913600
+
